@@ -1,0 +1,3 @@
+I am pleased to share my Covid - 19 in India Analysis Dashboard on Tableau Public. This dashboard provides insights into the impact of covid in India, presenting a visual representation of the data collected from different sources.
+This dashboard has been created using Tableau software, the dashboard includes visualizations such as maps, charts and graphs that display covid data in an easy format. This data includes metrics such as number of confirmed, death, cured cases as well as other information such as testing and vaccination details.
+I believe this dashboard can be useful for researchers, healthcare professionals and the general public in understanding the state of pandemic and it's impact on our health.
